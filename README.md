@@ -1,0 +1,1 @@
+# MultiFin_StockPredicate
